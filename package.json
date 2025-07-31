@@ -4,6 +4,7 @@
   "main": "index.js",
   "scripts": {
     "test": "vitest",
+    "teste:coverage": "vitest run --coverage",
     "prepare": "husky"
   },
   "engines": {
